@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Brijeshhansa
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA in python
 - 📫 How to reach me brijeshhansa123@gmail.com
 
